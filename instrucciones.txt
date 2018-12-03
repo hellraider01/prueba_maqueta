@@ -1,0 +1,8 @@
+- Iconos -> excepto los que vengan en resources usar una fuente de iconos
+- Puedes usar bootstrap o cualquier librería que quieras
+- Responsive
+- En el bloque de abajo que cambia de contenido que el contenido sea una imagen (no hace falta maquetar el interior)
+- En ese bloque que si que cambie de contenido al clickar en las opciones
+- Librerías de gráficos (usa datos ficticios) -> 
+	Círculo -> https://d3js.org/d3.v3.min.js 
+	Barras  -> https://github.com/glarios/jQMeter

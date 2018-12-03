@@ -1,0 +1,97 @@
+circle.na {
+	fill: #333;
+}
+circle.zero {
+	fill: #c00;
+}
+circle.one {
+	fill: #6c0;
+}
+
+nav{
+    background: url('../resources/cabecera_1.jpg') no-repeat center;
+    background-size: cover;
+    color: white;
+}
+
+nav p{
+    margin: 0px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.st-panel{
+    background: url('../resources/fondo_avances.jpg') no-repeat center;
+    background-size: cover;
+    color: white;
+    height: 50%;
+    margin-top: 5px;
+    border-top-style: solid;
+    border-color: orangered;
+    padding: 10px;
+}
+
+.graph1{
+   
+}
+
+.graph2{
+    padding-left: 25%; 
+    padding-right: 25%;
+}
+
+.graph3{
+    padding-left: 25%; 
+    padding-right: 25%;
+}
+
+
+.graph3 p{
+    font-size: 12px;
+}
+
+nav ul li a{
+    color: white;
+}
+nav ul li a:hover{
+    color: orangered;
+}
+
+.content-panel{
+    padding-top: 2%;
+}
+
+.content-menu ul li a{
+    color: black;
+}
+
+.content-menu ul li a:hover{
+    color: orangered;
+}
+
+.content-menu .nav-link{
+    color:black;
+}
+
+.logo-img{
+    max-height: 50px;
+}
+
+.tab-pane img{
+    width: 100%;
+}
+
+
+.white{
+    color: white; 
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #3a475a !important;
+    border-radius: 0px;
+}
+
+.orangered{
+    color: orangered;
+}
+
